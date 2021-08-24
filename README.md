@@ -1,3 +1,3 @@
 # kickstarter-analyses
 Performing kickstarter analyses to study trends
-## Testing how this works
+# Testing how this works
